@@ -50,5 +50,5 @@ Followed by a level 2 (`##`) heading.
 Edit `_include/navigation.html` to link the page to the navigation
 sidebar.
 
-[1]: https://bioconductor.github.io/EuroBio2019
+[1]: https://eurobioc2019.bioconductor.org/
 [2]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements
